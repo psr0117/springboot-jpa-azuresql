@@ -1,0 +1,15 @@
+This is a demo application to use spring boot and connect to microsoft Azure.
+
+This is taken from Javatechie youtube tutorial
+https://www.youtube.com/watch?v=puVMCRvdE9A
+
+
+#javatechie #SpringBoot #AzureSQL
+Deploy Spring Boot CRUD Application to Azure | AzureSQL Database | Spring Data JPA | Java Techie
+
+One of the links in his youtube under this video
+
+https://docs.microsoft.com/en-us/samples/azure-samples/spring-data-jpa-on-azure/spring-jpa-azure/
+
+https://github.com/Java-Techie-jt/springboot-azureSQL
+
